@@ -1,2 +1,1 @@
-# Portfolio
-Denne portfolio viser mine projekter inden for IT-teknologi, herunder mikrocontrollere, IoT, netværk, softwareudvikling og maskinlæring. Her kan arbejdsgivere få et klart indblik i mine færdigheder, min arbejdsstil og de løsninger, jeg har bygget under studiet og egne projekter.
+Denne portfolio samler de projekter, jeg har arbejdet på under min IT-teknologuddannelse og mine egne udviklingsforløb. Her kan du få et indblik i min måde at arbejde på: fra mikrocontroller-udvikling og embedded systemer til netværk, IoT, machine learning og softwaredesign. Repositoriet giver et ærligt billede af mine færdigheder, min læringsproces og de teknologier, jeg allerede mestrer — og dem jeg er på vej til at mestre.
