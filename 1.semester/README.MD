@@ -1,63 +1,59 @@
-1. semester – Fundamentet for IT-systemer
+# IT-Teknolog Portfolio – Embedded Systems
 
-Første semester på IT-Teknolog-uddannelsen havde fokus på at opbygge et bredt teknisk fundament inden for netværk, servere, elektronik, programmering og projektarbejde. Semestret fungerede som en introduktion til, hvordan moderne IT-systemer er sammensat af både software, hardware og infrastruktur – og hvordan disse dele hænger sammen i praksis.
+## Introduktion
 
-Netværk og topologi
+Dette repo dokumenterer min faglige rejse gennem IT-Teknolog-uddannelsen med fokus på Embedded systems, elektronik og IoT. Uddannelsen har givet mig et bredt fundament inden for netværk, programmering og systemforståelse, som gradvist er blevet omsat til mere specialiseret arbejde med indlejrede systemer og fysiske løsninger.
 
-Arbejdet med netværk tog udgangspunkt i grundlæggende netværkstopologier og IP-baseret kommunikation. Ved brug af Cisco Packet Tracer blev der opbygget og simuleret mindre netværk, hvor fokus var på:
+Gennem de fire semestre har jeg arbejdet med både simulerede og fysiske systemer – fra netværkstopologier og small scale servere til elektronik, sensorer, aktuatorer og embedded software. Projekterne har haft stigende teknisk kompleksitet og ansvar, og har krævet, at teori, praktisk implementering og dokumentation blev tænkt sammen som ét samlet system.
 
-netværksstruktur og opbygning
+README’en fungerer som en struktureret indgang til de enkelte semestre og projekter og viser, hvordan mine kompetencer er blevet opbygget trin for trin – fra grundlæggende IT-forståelse til selvstændig udvikling af embedded og IoT-baserede systemer.
 
-IP-adressering og segmentering
+## Kompetenceprofil
+En kondenseret oversigt over dine tekniske fokusområder.
 
-routing og kommunikationsveje mellem enheder
+### 1. semester – Grundlæggende IT-forståelse
 
-Formålet var ikke blot at få netværk til at virke, men at forstå hvorfor data bevæger sig, som de gør, og hvilke konsekvenser topologi og konfiguration har for stabilitet og performance.
+Første semester havde fokus på at opbygge en grundlæggende forståelse for IT-systemer gennem fire centrale fag: programmering, netværk, projektmanagement og elektronik. Samlet set gav semestret indsigt i, hvordan software, hardware og infrastruktur hænger sammen i praksis.
 
-Small scale servere og Raspberry Pi
+**Netværk:** 
+Netværksdelen omfattede grundlæggende netværkstopologi, IP-adressering og kommunikation mellem enheder. Arbejdet foregik primært i simulerede miljøer, hvilket gav en solid forståelse for routing, netværksstruktur og dataflow. Til dette blev **Cisco Packet Tracer** anvendt med fokus på centrale netværkskoncepter som DHCP, DNS, gateways, next-hop-routing og fejlsøgning med ping.
 
-Som supplement til simuleringer blev der arbejdet med Raspberry Pi 4 som small scale serverplatform. Her blev teorien koblet til fysisk hardware, og der blev opnået erfaring med:
+Som en del af netværksarbejdet blev **Raspberry Pi** introduceret som serverplatform. Her fik jeg for første gang praktisk erfaring med Linux-baserede systemer og command-line interface (CLI). Adgang til systemerne skete indledningsvist via SSH med PuTTY, hvorefter arbejdet gradvist blev flyttet direkte over i Linux-terminalen. Dette førte til et vedvarende fokus på CLI-baseret konfiguration og administration, som jeg har valgt at arbejde videre med siden. På dette tidspunkt blev **Terminator** anvendt som primært terminalværktøj.
 
-opsætning af Linux-baserede systemer
+Ved at arbejde mere direkte i CLI end pensum lagde op til, opnåede jeg en dybere forståelse for netværksopsætning og systemkonfiguration. Denne tilgang medførte, at jeg til eksamen kunne etablere et fuldt fungerende netværk på omtrent halvdelen af den forventede tid.
 
-grundlæggende serverfunktioner
+Packet Tracer fungerede som et velegnet værktøj til det første møde med netværk og grundlæggende koncepter. Mere avancerede og virkelighedsnære simuleringsværktøjer som **GNS3** blev kort berørt, men uden større fordybelse på dette tidspunkt.
 
-netværksforbindelse mellem fysiske enheder
 
-Dette gav tidligt en forståelse for forskellen mellem simulerede miljøer og virkelige systemer, hvor hardwarebegrænsninger, konfiguration og stabilitet spiller en afgørende rolle.
+**Programmering:** 
+Programmeringsdelen tog udgangspunkt i Python og havde fokus på at opbygge struktureret og logisk tænkning, som blev anvendt til mindre tekniske opgaver og generel systemforståelse. Arbejdet foregik primært i **JetBrains PyCharm**, som fungerede som introducerende udviklingsmiljø.
 
-Elektriske kredsløb og simulering
+Senere på semestret blev der arbejdet med **state machines**, hvilket blev mit første møde med objektorienteret programmering. Selvom objektorienteret kodning ikke var en del af pensum på dette tidspunkt, valgte jeg bevidst at arbejde videre med denne tilgang, da den gav en mere logisk og skalerbar måde at strukturere kode på. Herefter blev størstedelen af mit kodearbejde opbygget objektorienteret.
 
-Parallelt med IT-delen blev der arbejdet med grundlæggende elektriske kredsløb. Fokus var på forståelse af basale komponenter, kredsløbsopbygning og sammenhængen mellem teori og praksis. Kredsløb blev både opbygget fysisk og analyseret gennem simuleringer for at:
+I den forbindelse arbejdede jeg aktivt med overgangen fra procedural til objektorienteret terminologi og struktur, herunder:
+- variabler → attributter  
+- funktioner → metoder  
+- datastrukturer → objekter  
+- håndtering af tilstand (state)  
+- adgangsniveauer (public, private, protected)  
+- relationer mellem klasser såsom arv, komposition, aggregation og association  
+- forståelse af konstruktør og objektlivscyklus  
 
-forstå strøm, spænding og komponentadfærd
+Parallelt med Python blev der introduceret til programmering og systemarbejde i **Linux via CLI**. Arbejdet startede med grundlæggende kommandoer som `ls`, `pwd`, `grep` og tilsvarende værktøjer, hvorefter fokus gradvist bevægede sig mod **bash scripting**, som jeg fandt særligt interessant og anvendeligt i forhold til automatisering og systemarbejde.
 
-opbygge systematisk fejlfinding
 
-skabe sammenhæng mellem matematiske modeller og målinger
+**Projektmanagement:** 
+Introducerede planlægning, opgaveopdeling og dokumentation som en integreret del af tekniske projekter. Fokus var på struktur, samarbejde og overblik. 
 
-Dette lagde grundlaget for senere arbejde med indlejrede systemer og elektronik.
+**Elektronik:** gav en grundlæggende forståelse for elektriske kredsløb, komponenter og sammenhængen mellem teori, beregninger og praktisk opbygning.
 
-Programmering i Python
+Samlet lagde første semester fundamentet for senere arbejde med IoT og embedded systems ved at skabe en helhedsforståelse for både tekniske og organisatoriske aspekter af IT-projekter.
 
-Programmeringsdelen tog udgangspunkt i Python, hvor der blev arbejdet med grundlæggende programmeringskoncepter såsom:
 
-kontrolstrukturer
+## Udvalgte teknologier og værktøjer
+Konkrete platforme, sprog og værktøjer.
 
-funktioner
+## Refleksion
+Hvad uddannelsen har givet dig, og hvordan du arbejder teknisk i dag.
 
-simpel strukturering af kode
 
-Formålet var at opbygge logisk tænkning og forståelse for, hvordan software kan bruges til at styre og understøtte tekniske systemer.
-
-Projektstyring og samarbejde
-
-Endelig blev der arbejdet med projektstyring, hvor fokus var på planlægning, struktur og samarbejde. Her blev der introduceret til:
-
-opdeling af opgaver
-
-tidsplanlægning
-
-dokumentation af arbejdsprocesser
-
-Dette skabte tidligt en forståelse for, at tekniske projekter ikke kun handler om teknologi, men også om struktur, kommunikation og ansvar.
