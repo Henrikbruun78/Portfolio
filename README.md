@@ -42,7 +42,8 @@ I den forbindelse arbejdede jeg aktivt med overgangen fra procedural til objekto
 Parallelt med Python blev der introduceret til programmering og systemarbejde i **Linux via CLI**. Arbejdet startede med grundlæggende kommandoer som `ls`, `pwd`, `grep` og tilsvarende værktøjer, hvorefter fokus gradvist bevægede sig mod **bash scripting**, som jeg fandt særligt interessant og anvendeligt i forhold til automatisering og systemarbejde.
 
 
-**Projektmanagement:** introducerede planlægning, opgaveopdeling og dokumentation som en integreret del af tekniske projekter. Fokus var på struktur, samarbejde og overblik.
+**Projektmanagement:** 
+Introducerede planlægning, opgaveopdeling og dokumentation som en integreret del af tekniske projekter. Fokus var på struktur, samarbejde og overblik. 
 
 **Elektronik:** gav en grundlæggende forståelse for elektriske kredsløb, komponenter og sammenhængen mellem teori, beregninger og praktisk opbygning.
 
