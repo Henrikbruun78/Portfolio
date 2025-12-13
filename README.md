@@ -15,6 +15,7 @@ En kondenseret oversigt over dine tekniske fokusområder.
 Tidslinje over uddannelsen med korte, fokuserede beskrivelser.
 
 ### 1. semester – Grundlæggende IT-forståelse
+
 Første semester havde fokus på at opbygge en grundlæggende forståelse for IT-systemer gennem fire centrale fag: programmering, netværk, projektmanagement og elektronik. Samlet set gav semestret indsigt i, hvordan software, hardware og infrastruktur hænger sammen i praksis.
 **Programmering** tog udgangspunkt i Python og introducerede struktureret, logisk tænkning, som blev anvendt til mindre tekniske opgaver og systemforståelse.
 
