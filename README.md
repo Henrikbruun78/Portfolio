@@ -25,7 +25,22 @@ Ved at arbejde mere direkte i CLI end pensum lagde op til, opnåede jeg en dyber
 Packet Tracer fungerede som et velegnet værktøj til det første møde med netværk og grundlæggende koncepter. Mere avancerede og virkelighedsnære simuleringsværktøjer som **GNS3** blev kort berørt, men uden større fordybelse på dette tidspunkt.
 
 
-**Programmering:** tog udgangspunkt i Python og introducerede struktureret, logisk tænkning, som blev anvendt til mindre tekniske opgaver og systemforståelse.
+**Programmering:** 
+Programmeringsdelen tog udgangspunkt i Python og havde fokus på at opbygge struktureret og logisk tænkning, som blev anvendt til mindre tekniske opgaver og generel systemforståelse. Arbejdet foregik primært i **JetBrains PyCharm**, som fungerede som introducerende udviklingsmiljø.
+
+Senere på semestret blev der arbejdet med **state machines**, hvilket blev mit første møde med objektorienteret programmering. Selvom objektorienteret kodning ikke var en del af pensum på dette tidspunkt, valgte jeg bevidst at arbejde videre med denne tilgang, da den gav en mere logisk og skalerbar måde at strukturere kode på. Herefter blev størstedelen af mit kodearbejde opbygget objektorienteret.
+
+I den forbindelse arbejdede jeg aktivt med overgangen fra procedural til objektorienteret terminologi og struktur, herunder:
+- variabler → attributter  
+- funktioner → metoder  
+- datastrukturer → objekter  
+- håndtering af tilstand (state)  
+- adgangsniveauer (public, private, protected)  
+- relationer mellem klasser såsom arv, komposition, aggregation og association  
+- forståelse af konstruktør og objektlivscyklus  
+
+Parallelt med Python blev der introduceret til programmering og systemarbejde i **Linux via CLI**. Arbejdet startede med grundlæggende kommandoer som `ls`, `pwd`, `grep` og tilsvarende værktøjer, hvorefter fokus gradvist bevægede sig mod **bash scripting**, som jeg fandt særligt interessant og anvendeligt i forhold til automatisering og systemarbejde.
+
 
 **Projektmanagement:** introducerede planlægning, opgaveopdeling og dokumentation som en integreret del af tekniske projekter. Fokus var på struktur, samarbejde og overblik.
 
