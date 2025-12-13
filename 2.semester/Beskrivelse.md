@@ -1,3 +1,19 @@
+### Virtualisering og virtuelle miljøer
+
+På andet semester blev der arbejdet med **virtualisering** som teknologisk fundament for moderne IT-infrastruktur. Fokus var på at forstå, hvordan hardware-ressourcer kan abstraheres og deles mellem flere systemer, samt hvordan virtuelle miljøer anvendes til test, udvikling og sikkerhed.
+
+Undervisningen tog udgangspunkt i **VMware Workstation**, hvor der blev arbejdet med opbygning og administration af virtuelle maskiner. Her blev begreber som hypervisor, host- og guest-operativsystemer gennemgået, og der blev opnået praktisk erfaring med installation af Linux-baserede gæste-systemer, herunder Ubuntu.
+
+Der blev arbejdet med **ressourcestyring**, hvor CPU, RAM, lager og netværk tildeles virtuelle maskiner. Fokus var på korrekt dimensionering og forståelse for, at virtuelle ressourcer ikke nødvendigvis svarer 1:1 til fysiske ressourcer. I den forbindelse blev der også arbejdet med strukturering af virtuelle diske og forståelse for, hvordan virtuelle maskiner reelt består af konfigurations- og diskfiler.
+
+Et centralt element i forløbet var **virtuel netværkskonfiguration**. Her blev der arbejdet med de tre grundlæggende netværkstyper:
+- **NAT**, hvor virtuelle maskiner placeres i et isoleret subnet med adgang til eksternt net via hosten  
+- **Bridged**, hvor virtuelle maskiner optræder direkte på det fysiske netværk  
+- **Host-only**, hvor kommunikation er begrænset til host og virtuelle maskiner  
+
+Gennem praktiske øvelser blev der opbygget flere virtuelle maskiner, som blev testet i forskellige netværksopsætninger, herunder ping-tests og netværksanalyse. Dette gav en konkret forståelse for, hvordan netværksadgang, isolation og eksponering ændres afhængigt af valg af virtualiseringsmodel.
+
+Samlet set gav virtualiseringsforløbet en solid forståelse for, hvordan virtuelle miljøer anvendes til at opbygge fleksible, sikre og reproducerbare systemer. Denne viden har været central i senere arbejde med netværkssikkerhed, MQTT-systemer og komplekse IoT- og embedded-arkitekturer, hvor isolerede test- og udviklingsmiljøer er afgørende.
 
 
 ### Network Security og netværksbeskyttelse
