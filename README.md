@@ -14,8 +14,18 @@ En kondenseret oversigt over dine tekniske fokusområder.
 ## Semesteroversigt
 Tidslinje over uddannelsen med korte, fokuserede beskrivelser.
 
-### 1. semester – Fundament og orientering
-Hvad du arbejdede med, og hvad du lærte på systemniveau.
+### 1. semester – Grundlæggende IT-forståelse
+Første semester havde fokus på at opbygge en grundlæggende forståelse for IT-systemer gennem fire centrale fag: programmering, netværk, projektmanagement og elektronik. Samlet set gav semestret indsigt i, hvordan software, hardware og infrastruktur hænger sammen i praksis.
+**Programmering** tog udgangspunkt i Python og introducerede struktureret, logisk tænkning, som blev anvendt til mindre tekniske opgaver og systemforståelse.
+
+**Netværk** omhandlede grundlæggende netværkstopologi, IP-adressering og kommunikation mellem enheder. Arbejdet foregik primært i simulerede miljøer, hvilket gav forståelse for routing, netværksstruktur og dataflow.
+
+**Projektmanagement** introducerede planlægning, opgaveopdeling og dokumentation som en integreret del af tekniske projekter. Fokus var på struktur, samarbejde og overblik.
+
+**Elektronik** gav en grundlæggende forståelse for elektriske kredsløb, komponenter og sammenhængen mellem teori, beregninger og praktisk opbygning.
+
+Samlet lagde første semester fundamentet for senere arbejde med IoT og embedded systems ved at skabe en helhedsforståelse for både tekniske og organisatoriske aspekter af IT-projekter.
+
 
 ### 2. semester – IoT og systemintegration
 Hvor software, hardware og netværk begyndte at smelte sammen.
