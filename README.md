@@ -16,7 +16,14 @@ En kondenseret oversigt over dine tekniske fokusområder.
 Første semester havde fokus på at opbygge en grundlæggende forståelse for IT-systemer gennem fire centrale fag: programmering, netværk, projektmanagement og elektronik. Samlet set gav semestret indsigt i, hvordan software, hardware og infrastruktur hænger sammen i praksis.
 
 **Netværk:** 
-omhandlede grundlæggende netværkstopologi, IP-adressering og kommunikation mellem enheder. Arbejdet foregik primært i simulerede miljøer, hvilket gav forståelse for routing, netværksstruktur og dataflow.
+Netværksdelen omfattede grundlæggende netværkstopologi, IP-adressering og kommunikation mellem enheder. Arbejdet foregik primært i simulerede miljøer, hvilket gav en solid forståelse for routing, netværksstruktur og dataflow. Til dette blev **Cisco Packet Tracer** anvendt med fokus på centrale netværkskoncepter som DHCP, DNS, gateways, next-hop-routing og fejlsøgning med ping.
+
+Som en del af netværksarbejdet blev **Raspberry Pi** introduceret som serverplatform. Her fik jeg for første gang praktisk erfaring med Linux-baserede systemer og command-line interface (CLI). Adgang til systemerne skete indledningsvist via SSH med PuTTY, hvorefter arbejdet gradvist blev flyttet direkte over i Linux-terminalen. Dette førte til et vedvarende fokus på CLI-baseret konfiguration og administration, som jeg har valgt at arbejde videre med siden. På dette tidspunkt blev **Terminator** anvendt som primært terminalværktøj.
+
+Ved at arbejde mere direkte i CLI end pensum lagde op til, opnåede jeg en dybere forståelse for netværksopsætning og systemkonfiguration. Denne tilgang medførte, at jeg til eksamen kunne etablere et fuldt fungerende netværk på omtrent halvdelen af den forventede tid.
+
+Packet Tracer fungerede som et velegnet værktøj til det første møde med netværk og grundlæggende koncepter. Mere avancerede og virkelighedsnære simuleringsværktøjer som **GNS3** blev kort berørt, men uden større fordybelse på dette tidspunkt.
+
 
 **Programmering:** tog udgangspunkt i Python og introducerede struktureret, logisk tænkning, som blev anvendt til mindre tekniske opgaver og systemforståelse.
 
