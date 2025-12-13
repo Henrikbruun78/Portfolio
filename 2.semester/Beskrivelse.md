@@ -46,6 +46,25 @@ Som en naturlig forlængelse heraf blev der introduceret til **webudvikling med 
 
 I denne sammenhæng blev der arbejdet med **CRUD-funktionalitet** (Create, Read, Update, Delete), hvor webapplikationer blev anvendt til at oprette, vise og opdatere data i PostgreSQL-databaser. Fokus var på at forstå
 
+### Programmering og objektorienteret design
+
+På andet semester blev programmeringsundervisningen udvidet fra grundlæggende struktur til **objektorienteret programmering (OOP)** og systematisk softwaredesign. Fokus var på at skrive mere vedligeholdbar, skalerbar og struktureret kode, der kunne indgå som en del af større systemer.
+
+Forløbet startede med en repetition af **funktioner og moduler**, hvorefter der blev arbejdet med **struktureret programmering**. Her var fokus på klar programopbygning, ansvarlig opdeling af kode og anvendelse af flowcharts som værktøj til at visualisere programlogik og procesforløb.
+
+Herefter blev der introduceret til **grafiske brugergrænseflader (GUI) i Python**, hvor simple interfaces blev opbygget for at koble programlogik til brugerinteraktion. Dette gav indsigt i samspillet mellem frontend-elementer og backend-funktionalitet.
+
+En central del af semestret var introduktionen til **objektorienteret programmering**, hvor begreber som klasser, objekter, attributter og metoder blev grundlæggende forstået og anvendt i praksis. Dette blev efterfulgt af arbejde med **UML og design**, hvor klasser, relationer og systemstruktur blev modelleret før implementering.
+
+I forlængelse heraf blev der arbejdet med centrale OOP-principper såsom:
+- **arv**, hvor funktionalitet genbruges og udvides  
+- **komposition og aggregation**, hvor systemer sammensættes af mindre, selvstændige komponenter  
+- tydelig adskillelse af ansvar mellem klasser  
+
+Disse principper blev understøttet af praktiske øvelser og visualisering via UML-diagrammer og værktøjer som PlantUML.
+
+Samlet set gav programmeringsforløbet på andet semester en solid forståelse for objektorienteret tænkning og softwarearkitektur. Erfaringerne herfra har haft direkte betydning for senere arbejde med større kodebaser, embedded software, MQTT-baserede systemer og komplekse IoT-projekter, hvor struktur og design er afgørende.
+
 ### MQTT og IoT-kommunikation
 
 Som en del af andet semester blev der arbejdet målrettet med **MQTT som kommunikationsprotokol** i forbindelse med IoT- og robotsystemer. Fokus var på forståelse af signalflow, systemdesign og pålidelig dataudveksling mellem enheder.
