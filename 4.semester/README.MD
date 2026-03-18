@@ -1,1 +1,1 @@
-For 4. sem
+For 4. semester
