@@ -1,3 +1,5 @@
+## Installation og TPM konfiguration ##
+
 1. Install tmux:
 sudo apt install tmux
 
