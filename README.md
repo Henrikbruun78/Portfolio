@@ -66,17 +66,17 @@ Samlet lagde første semester fundamentet for senere arbejde med IoT og embedded
 
 
 ### 2. semester – IoT og systemintegration
-Hvor software, hardware og netværk begyndte at smelte sammen.
+WiP.
 
 ### 3. semester – Specialisering: Embedded systems, Elektronik og IoT
-Fordybelse, kompleksitet og selvstændige tekniske valg.
+WiP
 
 ### 4. semester – Praktik og afsluttende projekt
-Professionel anvendelse og selvstændigt ansvar.
+WiP
 
 ## Udvalgte teknologier og værktøjer
-Konkrete platforme, sprog og værktøjer.
+WiP
 
 ## Refleksion
-Hvad uddannelsen har givet dig, og hvordan du arbejder teknisk i dag.
+WiP
 
