@@ -22,10 +22,10 @@ set -g @plugin 'tmux-plugins/tmux-continuum'
 set -g @plugin 'tmux-plugins/tmux-yank'
 run '~/.tmux/plugins/tpm/tpm'
 
-Install plugins inside tmux:
+6. Install plugins inside tmux:
 Ctrl-b  I
 
-6. Default development layout:
+7. Default development layout:
 Create a command binding:
 bind L run-shell '~/.tmux/layouts/dev_layout.sh'
 Where the script sets up windows/panes.
