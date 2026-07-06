@@ -1,0 +1,9 @@
+
+
+Original udviklingskoncept: https://www.youtube.com/shorts/a9IjJSY7COQ
+
+High-side current measuring software test: https://www.youtube.com/shorts/Of1jU6cMqLg
+Ros2 software test med: https://www.youtube.com/watch?v=gjPGllCxA1E
+Ros2 snegle PoC: https://www.youtube.com/shorts/ceOC3bnctPo
+
+
